@@ -1,0 +1,2 @@
+field_detection_model_best.pt filter=lfs diff=lfs merge=lfs -text
+yolov8x-pose.pt filter=lfs diff=lfs merge=lfs -text
