@@ -1,0 +1,16 @@
+# Python version
+python==3.11.12
+
+# Core dependencies
+ultralytics
+supervision
+jupyterlab
+pytorch
+torchvision
+ipywidgets
+transformers
+sentencepiece
+protobuf
+pip
+
+git+https://github.com/roboflow/sports.git 
