@@ -16,12 +16,17 @@ Argus is a computer vision project focused on football (soccer) analytics. It le
 ## Requirements
 
 - Python 3.11.12
-- All dependencies listed in `requirements.txt`
-
-To install the requirements, run:
-```sh
-pip install -r requirements.txt
-```
+- ultralytics
+- supervision
+- jupyterlab
+- pytorch
+- torchvision
+- ipywidgets
+- transformers
+- sentencepiece
+- protobuf
+- pip
+- sports
 
 > **Note:** Some model files are managed with [Git LFS](https://git-lfs.github.com/). Make sure you have Git LFS installed to download them.
 
