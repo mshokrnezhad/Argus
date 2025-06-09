@@ -1,5 +1,9 @@
 # Argus
 
+<div align="center">
+  <img src="argus.png" alt="drawing" width="600"/>
+</div>
+
 Argus is a computer vision project focused on football (soccer) analytics. It leverages deep learning models to detect players and field features in football videos, enabling advanced analysis and visualization. The project uses YOLO-based models and pose estimation techniques for robust detection and tracking.
 
 ## Project Structure
