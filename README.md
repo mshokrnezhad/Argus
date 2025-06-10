@@ -38,7 +38,7 @@ Argus is a computer vision project focused on football (soccer) analytics. It le
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/argus.git
+   git clone https://github.com/mshokrnezhad/argus.git
    cd argus
    ```
 2. **Install Git LFS and pull large files:**
